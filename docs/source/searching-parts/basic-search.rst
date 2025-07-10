@@ -6,6 +6,13 @@ The basic search interface is your primary tool for finding parts in the MHS Par
 Accessing the Search Interface
 ------------------------------
 
+.. image:: /_static/images/search-interface.png
+   :alt: Main search interface showing search input field, type selector, and search button
+   :width: 800px
+   :class: screenshot
+
+*Screenshot needed: Main search interface showing the search input field, dropdown for search types (Exact Part Number, Fuzzy Part Number, Description), search button, and expandable sections for search history and favorites*
+
 To start searching for parts:
 
 1. **Click "Part Enquiry"** in the main navigation
@@ -26,6 +33,13 @@ The portal offers three distinct search methods:
 Exact Part Number Search
 ------------------------
 
+.. image:: /_static/images/search-exact-part-number.png
+   :alt: Exact part number search interface with dropdown selected and sample part number entered
+   :width: 800px
+   :class: screenshot
+
+*Screenshot needed: Search interface with "Exact Part Number" selected in dropdown, sample part number "HYD-123-456" entered in search field, and search button highlighted*
+
 **When to use:** When you know the complete, exact part number.
 
 **How it works:**
@@ -39,6 +53,13 @@ Exact Part Number Search
 - Pricing specific to your account
 - Technical documentation
 - Related parts and alternatives
+
+.. image:: /_static/images/search-exact-results.png
+   :alt: Exact search results showing detailed part information panel with specifications, stock, and pricing
+   :width: 1000px
+   :class: screenshot
+
+*Screenshot needed: Exact search results page showing a single part with large product image, detailed specifications in tabs, stock level indicators, pricing information, and "Add to Cart" functionality*
 
 **Custom Part Number Support:**
 If you've set up custom part number mappings, you can search using your internal part numbers. The system will:
@@ -55,6 +76,13 @@ If you search for an alternative or legacy part number:
 Fuzzy Part Number Search
 ------------------------
 
+.. image:: /_static/images/search-fuzzy-interface.png
+   :alt: Fuzzy search interface showing dropdown selection and partial part number entry
+   :width: 800px
+   :class: screenshot
+
+*Screenshot needed: Search interface with "Fuzzy Part Number" selected in dropdown and partial part number "HYD-123" entered in search field*
+
 **When to use:** When you're not sure of the exact part number or want to find similar parts.
 
 **How it works:**
@@ -67,6 +95,13 @@ Fuzzy Part Number Search
 - Parts with similar part numbers
 - Ranked by relevance to your search term
 
+.. image:: /_static/images/search-fuzzy-results.png
+   :alt: Fuzzy search results showing multiple parts in table format with relevance ranking
+   :width: 1000px
+   :class: screenshot
+
+*Screenshot needed: Fuzzy search results showing table format with multiple parts (HYD-123-456, HYD-123-789, HYD-123-ABC), each with part number, description, small image, and stock status, ranked by relevance*
+
 **Tips for fuzzy search:**
 - Use key portions of the part number
 - Include hyphens and spaces as they appear
@@ -74,6 +109,13 @@ Fuzzy Part Number Search
 
 Description Search
 ------------------
+
+.. image:: /_static/images/search-description-interface.png
+   :alt: Description search interface showing dropdown selection and keyword entry
+   :width: 800px
+   :class: screenshot
+
+*Screenshot needed: Search interface with "Description" selected in dropdown and keywords "hydraulic pump seal" entered in search field*
 
 **When to use:** When you know what the part does but not the part number.
 
@@ -87,6 +129,13 @@ Description Search
 - Sorted by relevance
 - Multiple product categories
 
+.. image:: /_static/images/search-description-results.png
+   :alt: Description search results showing various hydraulic pump seals with descriptions and categories
+   :width: 1000px
+   :class: screenshot
+
+*Screenshot needed: Description search results showing multiple hydraulic pump seals from different categories, each with part number, detailed description, category label, and stock status*
+
 **Description search tips:**
 - Use specific technical terms when possible
 - Include key specifications (size, pressure, etc.)
@@ -95,6 +144,13 @@ Description Search
 
 Auto-Complete Feature
 ---------------------
+
+.. image:: /_static/images/search-autocomplete.png
+   :alt: Auto-complete dropdown showing smart suggestions as user types
+   :width: 700px
+   :class: screenshot
+
+*Screenshot needed: Search box with "HYD" typed in, showing auto-complete dropdown with suggestions like "HYD-123-456 (Recent)", "HYD-789-012 (Popular)", "HYD-345-678 (Favorite)", with one highlighted*
 
 As you type in the search box, the auto-complete feature provides:
 
@@ -133,6 +189,13 @@ When multiple parts match, you'll see:
 
 Stock Information Display
 -------------------------
+
+.. image:: /_static/images/search-stock-indicators.png
+   :alt: Search results showing different stock status indicators in green, yellow, and red
+   :width: 900px
+   :class: screenshot
+
+*Screenshot needed: Search results showing multiple parts with different stock indicators: green "In Stock (25 available)", yellow "Low Stock (3 available)", red "Out of Stock - Check Supplier", and quantity-specific indicators*
 
 Every search result shows stock information:
 
@@ -223,11 +286,25 @@ Common Search Scenarios
 Mobile Search
 -------------
 
+.. image:: /_static/images/search-mobile-interface.png
+   :alt: Mobile search interface showing touch-friendly layout with large search box and QR scanner button
+   :width: 400px
+   :class: screenshot mobile-screenshot
+
+*Screenshot needed: Mobile search interface (portrait orientation) showing large search box, search type dropdown, search button, and prominent QR scanner button*
+
 On mobile devices:
 - **Tap search box** to open keyboard
 - **Use voice input** if available
 - **Swipe through results** easily
 - **Access QR scanner** for quick part lookup
+
+.. image:: /_static/images/search-mobile-results.png
+   :alt: Mobile search results showing swipeable cards with part information
+   :width: 400px
+   :class: screenshot mobile-screenshot
+
+*Screenshot needed: Mobile search results (portrait orientation) showing part results as cards that can be swiped through, with clear touch targets for actions*
 
 Next Steps
 ----------

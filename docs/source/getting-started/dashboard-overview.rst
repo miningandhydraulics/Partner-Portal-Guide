@@ -6,6 +6,13 @@ Your dashboard is the central hub of the MHS Partner Portal. This guide will hel
 Dashboard Layout
 ----------------
 
+.. image:: /_static/images/dashboard-overview.png
+   :alt: Complete MHS Partner Portal dashboard showing all sections and layout
+   :width: 1200px
+   :class: screenshot
+
+*Screenshot needed: Full dashboard view showing all major sections labeled with numbered callouts: 1-Welcome Header, 2-Key Metrics Cards, 3-Recent Activity, 4-Quick Actions, 5-Account Summary, 6-System Status*
+
 The dashboard is organized into several key sections:
 
 1. **Welcome Header** - Personal greeting and refresh controls
@@ -26,6 +33,13 @@ At the top of your dashboard:
 
 Key Metrics Cards
 -----------------
+
+.. image:: /_static/images/dashboard-metrics-cards.png
+   :alt: Dashboard metrics cards showing cart status, pending orders, monthly orders, account status, and airbag countdown
+   :width: 1000px
+   :class: screenshot
+
+*Screenshot needed: Close-up of the five metric cards area showing sample data: Cart Status (3 items, $245.67), Pending Orders (2), This Month's Orders (8), Account Status (Active), and Airbag Cutoff Timer (2h 45m remaining)*
 
 Five metric cards provide instant insights:
 
@@ -60,6 +74,13 @@ Five metric cards provide instant insights:
 Recent Activity Feed
 --------------------
 
+.. image:: /_static/images/dashboard-activity-feed.png
+   :alt: Recent activity feed showing order updates, search history, and cart activity
+   :width: 800px
+   :class: screenshot
+
+*Screenshot needed: Activity feed section showing recent activities like "Order #12345 placed", "Searched for 'hydraulic pump'", "Added HYD-123 to favorites", with timestamps and minimize button*
+
 The activity feed shows your recent actions:
 
 **Order Updates**
@@ -87,6 +108,13 @@ The activity feed shows your recent actions:
 
 Quick Actions Panel
 -------------------
+
+.. image:: /_static/images/dashboard-quick-actions.png
+   :alt: Quick actions panel showing context-aware buttons like "Checkout 3 items" and "Search parts"
+   :width: 600px
+   :class: screenshot
+
+*Screenshot needed: Quick actions panel showing yellow primary buttons ("Checkout 3 items", "Search parts") and gray secondary buttons ("Reorder from recent", "View order history")*
 
 Dynamic shortcuts based on your current state:
 
@@ -119,6 +147,13 @@ Shows important account information:
 
 System Status Monitor
 ---------------------
+
+.. image:: /_static/images/dashboard-system-status.png
+   :alt: System status monitor showing green "All systems operational" with component health indicators
+   :width: 700px
+   :class: screenshot
+
+*Screenshot needed: System status section showing green "All systems operational" status with component health indicators (Backend: ✓, Frontend: ✓, Proxy: ✓, Gateway: ✓) and "View Status Page" link*
 
 Real-time system health information:
 
@@ -178,6 +213,13 @@ Dashboard Tips
 
 Mobile Dashboard
 ----------------
+
+.. image:: /_static/images/dashboard-mobile.png
+   :alt: Mobile dashboard showing vertical stacked layout with touch-friendly interface
+   :width: 400px
+   :class: screenshot mobile-screenshot
+
+*Screenshot needed: Mobile dashboard view (portrait orientation) showing how all dashboard sections stack vertically, with key metrics at top and touch-friendly buttons*
 
 On mobile devices, the dashboard:
 

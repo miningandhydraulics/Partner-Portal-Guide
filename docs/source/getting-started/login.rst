@@ -6,6 +6,13 @@ This guide will help you access your MHS Partner Portal account for the first ti
 Accessing the Portal
 --------------------
 
+.. image:: /_static/images/login-page.png
+   :alt: MHS Partner Portal login page showing email and password fields with Sign In button
+   :width: 800px
+   :class: screenshot
+
+*Screenshot needed: Full login page showing the MHS Partner Portal branding, email field, password field, "Sign In" button, and "Forgot Password?" link*
+
 1. **Open your web browser** and navigate to the MHS Partner Portal URL
 2. **Click "Login"** or you'll be automatically redirected to the login page
 3. **Enter your credentials** (provided by MHS)
@@ -44,6 +51,13 @@ Your new password must:
 
 Reset Your Password
 -------------------
+
+.. image:: /_static/images/forgot-password-page.png
+   :alt: Password reset page showing email input field and reset button
+   :width: 800px
+   :class: screenshot
+
+*Screenshot needed: Password reset page with email input field, "Send Reset Link" button, and "Back to Login" link*
 
 If you've forgotten your password:
 
@@ -84,6 +98,13 @@ Troubleshooting Login Issues
    - Clear your browser cache and cookies
    - Try a different browser
 
+.. image:: /_static/images/login-error-example.png
+   :alt: Example of login error message showing "Invalid email or password" alert
+   :width: 600px
+   :class: screenshot
+
+*Screenshot needed: Login page showing a typical error message, such as "Invalid email or password" in a red alert box*
+
 **Still having trouble?**
    Contact MHS customer service with:
    - Your registered email address
@@ -105,6 +126,13 @@ Supported browsers:
 
 Mobile Access
 -------------
+
+.. image:: /_static/images/mobile-login.png
+   :alt: Mobile login page showing responsive design on smartphone
+   :width: 400px
+   :class: screenshot mobile-screenshot
+
+*Screenshot needed: Mobile login page (portrait orientation) showing how the login form adapts to mobile screen size*
 
 The portal is fully responsive and works on:
 

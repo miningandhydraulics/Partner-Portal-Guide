@@ -36,6 +36,13 @@ Cart Features
 Adding Parts from Search Results
 ---------------------------------
 
+.. image:: /_static/images/cart-add-from-search.png
+   :alt: Adding part to cart from search results showing quantity field and Add to Cart button
+   :width: 900px
+   :class: screenshot
+
+*Screenshot needed: Part details page showing the quantity input field, "Add to Cart" button, stock status, and pricing information, with the Add to Cart button highlighted*
+
 **From Exact Search Results:**
 
 1. **Search for a specific part** using exact part number
@@ -45,7 +52,21 @@ Adding Parts from Search Results
 5. **Confirmation notification** appears
 6. **Part is added** to your cart immediately
 
+.. image:: /_static/images/cart-add-confirmation.png
+   :alt: Cart confirmation notification showing item added successfully
+   :width: 600px
+   :class: screenshot
+
+*Screenshot needed: Success notification popup showing "HYD-123-456 (qty: 2) added to cart successfully" with green checkmark icon*
+
 **From Multiple Search Results:**
+
+.. image:: /_static/images/cart-add-from-results-table.png
+   :alt: Search results table showing multiple parts with individual Add to Cart buttons
+   :width: 1000px
+   :class: screenshot
+
+*Screenshot needed: Search results table showing multiple parts, each with quantity fields and "Add to Cart" buttons, with one part highlighted as being added*
 
 1. **Perform a fuzzy or description search**
 2. **Browse the results table** to find desired parts
@@ -58,6 +79,13 @@ Adding Parts from Search Results
 - **Increase quantity** before adding to cart
 - **Stock warnings** appear if quantity exceeds availability
 - **Backorder notification** for insufficient stock
+
+.. image:: /_static/images/cart-stock-warning.png
+   :alt: Stock warning message when quantity exceeds available stock
+   :width: 700px
+   :class: screenshot
+
+*Screenshot needed: Warning message showing "Only 5 available in stock. Remaining 3 will be backordered" with yellow warning icon*
 
 Adding from Different Sources
 -----------------------------
@@ -89,6 +117,13 @@ Adding from Different Sources
 Cart Management
 ---------------
 
+.. image:: /_static/images/cart-overview.png
+   :alt: Cart page showing all items with quantities, pricing, and total value
+   :width: 1000px
+   :class: screenshot
+
+*Screenshot needed: Full cart page showing multiple items with part numbers, descriptions, quantities, unit prices, line totals, and overall cart total at bottom*
+
 **Viewing Your Cart:**
 1. **Click the cart icon** in the navigation
 2. **Or use "View Cart"** from dashboard quick actions
@@ -96,6 +131,13 @@ Cart Management
 4. **See total order value** and item count
 
 **Modifying Cart Contents:**
+
+.. image:: /_static/images/cart-modify-quantities.png
+   :alt: Cart items showing quantity fields being modified with real-time total updates
+   :width: 900px
+   :class: screenshot
+
+*Screenshot needed: Cart items with quantity fields highlighted, showing one quantity being changed from 2 to 5, with totals updating in real-time*
 
 **Changing Quantities:**
 1. **Find the item** in your cart
@@ -109,6 +151,13 @@ Cart Management
 3. **Item disappears** immediately
 4. **Cart totals update** automatically
 
+.. image:: /_static/images/cart-remove-item.png
+   :alt: Cart item with Remove button highlighted and confirmation dialog
+   :width: 700px
+   :class: screenshot
+
+*Screenshot needed: Cart item with "Remove" button highlighted and confirmation dialog asking "Are you sure you want to remove this item from your cart?"*
+
 **Clearing Entire Cart:**
 1. **Click "Clear Cart"** button
 2. **Confirm you want to remove all items**
@@ -117,6 +166,13 @@ Cart Management
 
 Understanding Cart Information
 ------------------------------
+
+.. image:: /_static/images/cart-item-details.png
+   :alt: Detailed cart item showing part number, description, quantity, pricing, and stock status
+   :width: 900px
+   :class: screenshot
+
+*Screenshot needed: Individual cart item showing part number "HYD-123-456", description "Hydraulic Pump Seal", quantity "2", unit price "$45.67", line total "$91.34", and green stock indicator "In Stock (25 available)"*
 
 **Item Details Shown:**
 - **Part number** and description
@@ -130,6 +186,13 @@ Understanding Cart Information
 - **Number of items** in cart
 - **Estimated shipping** costs (where applicable)
 - **Total order value**
+
+.. image:: /_static/images/cart-stock-status-indicators.png
+   :alt: Cart showing different stock status indicators for various items
+   :width: 800px
+   :class: screenshot
+
+*Screenshot needed: Cart showing multiple items with different stock indicators: green checkmark (In Stock), yellow warning (Low Stock - 3 available), red alert (Out of Stock - Check Supplier), blue info (Supplier Item)*
 
 **Stock Status Indicators:**
 - **Green checkmark**: All items available locally
@@ -192,6 +255,13 @@ Cart Best Practices
 Mobile Cart Management
 ----------------------
 
+.. image:: /_static/images/cart-mobile-interface.png
+   :alt: Mobile cart interface showing touch-friendly layout with swipe actions
+   :width: 400px
+   :class: screenshot mobile-screenshot
+
+*Screenshot needed: Mobile cart view (portrait orientation) showing items with large touch targets, swipe-to-remove indicators, and prominent checkout button*
+
 **Mobile-Specific Features:**
 - **Touch-friendly interface** for easy quantity changes
 - **Swipe actions** for removing items
@@ -203,6 +273,13 @@ Mobile Cart Management
 - **Use landscape mode** for detailed review
 - **Pull down** to refresh stock status
 - **Long press** for additional options
+
+.. image:: /_static/images/cart-mobile-quantity-edit.png
+   :alt: Mobile cart showing quantity editing interface with large buttons
+   :width: 400px
+   :class: screenshot mobile-screenshot
+
+*Screenshot needed: Mobile cart quantity editing showing large +/- buttons and numeric input field with touch-friendly interface*
 
 Troubleshooting Cart Issues
 ---------------------------
@@ -233,6 +310,13 @@ Troubleshooting Cart Issues
 
 Cart Security
 -------------
+
+.. image:: /_static/images/cart-security-indicators.png
+   :alt: Cart page showing security indicators like SSL encryption badge
+   :width: 600px
+   :class: screenshot
+
+*Screenshot needed: Cart page showing security indicators such as SSL lock icon, "Secure Connection" badge, and privacy notice*
 
 **Data Protection:**
 - **Cart contents encrypted** during transmission

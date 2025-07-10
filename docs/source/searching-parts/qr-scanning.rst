@@ -15,6 +15,13 @@ QR code scanning allows you to:
 Accessing the QR Scanner
 -------------------------
 
+.. image:: /_static/images/qr-scanner-access.png
+   :alt: QR scanner icon in the search interface showing where to access scanning feature
+   :width: 800px
+   :class: screenshot
+
+*Screenshot needed: Search interface showing the QR scanner icon next to the search box, with the icon highlighted and labeled*
+
 **From the Main Navigation:**
 1. **Click "Part Enquiry"** in the navigation menu
 2. **Look for the QR scanner icon** in the search area
@@ -24,6 +31,13 @@ Accessing the QR Scanner
 1. **Navigate to Part Enquiry** on your mobile device
 2. **Tap the QR code icon** next to the search box
 3. **Allow camera permissions** when prompted
+
+.. image:: /_static/images/qr-scanner-mobile-access.png
+   :alt: Mobile search interface showing QR scanner icon and camera permission prompt
+   :width: 400px
+   :class: screenshot mobile-screenshot
+
+*Screenshot needed: Mobile search interface (portrait orientation) showing the QR scanner icon and browser camera permission dialog*
 
 **Direct Access:**
 - **Visit the scanner page** directly from the main menu
@@ -47,6 +61,13 @@ When you first use the scanner, your browser will request camera access:
 How to Scan QR Codes
 ---------------------
 
+.. image:: /_static/images/qr-scanner-interface.png
+   :alt: QR scanner interface showing camera view with QR code recognition frame
+   :width: 800px
+   :class: screenshot
+
+*Screenshot needed: QR scanner interface showing the camera view with a QR code in the center frame, scanning guide lines, and instructions*
+
 **Basic Scanning Process:**
 1. **Open the QR scanner**
 2. **Point your camera** at the QR code or barcode
@@ -60,11 +81,25 @@ How to Scan QR Codes
 - **Use good lighting** for better recognition
 - **Clean the camera lens** if scanning is difficult
 
+.. image:: /_static/images/qr-scanner-scanning-process.png
+   :alt: QR scanner showing successful code recognition with part number extracted
+   :width: 700px
+   :class: screenshot
+
+*Screenshot needed: QR scanner showing a QR code being successfully scanned with "Code recognized: HYD-123-456" message and automatic search starting*
+
 **What Happens After Scanning:**
 - The part number is automatically extracted
 - An exact part search is performed
 - Results are displayed just like a manual search
 - You can immediately add items to your cart
+
+.. image:: /_static/images/qr-scanner-results.png
+   :alt: Search results page showing part found from QR code scan
+   :width: 1000px
+   :class: screenshot
+
+*Screenshot needed: Search results page showing part details after successful QR code scan, with "Scanned from QR code" indicator and part information displayed*
 
 Supported Code Types
 --------------------
