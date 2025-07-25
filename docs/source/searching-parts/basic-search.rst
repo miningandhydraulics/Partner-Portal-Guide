@@ -6,7 +6,7 @@ The basic search interface is your primary tool for finding parts in the MHS Par
 Accessing the Search Interface
 ------------------------------
 
-.. image:: /_static/images/Basic Search/Accessing the search interface.JPG
+.. image:: /_static/images/Basic_Search/Accessingthesearchinterface.JPG
    :alt: Main search interface showing search input field, type selector, and search button
    :width: 800px
    :class: screenshot
