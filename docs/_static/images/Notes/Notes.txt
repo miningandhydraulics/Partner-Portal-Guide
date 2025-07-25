@@ -1,0 +1,21 @@
+1. QR Code Scanner page on mobile has the top bar appear twice. (Will include screenshot in this folder)
+
+2. Frequent errors when searching for parts.
+
+3. For QR Code Scanner ill need something to scan as an example for the screenshots.
+
+4. Adding items to cart from search results. Requests screenshot of search table having add to cart button next to items but these buttons do not exist.
+
+5. No stock warning message when ordering a quantity more than what is available.
+
+6. No stock status on cart page.
+
+7. No real time stock checking on checkout page.
+
+8. Opening notifications wont let me close it by clicking again, only by refreshing the page.
+
+9. Need a sample order confirmation email to screensot.
+
+10. Maybe make example item for example purposes only? So we can have screenshots of order confirmations, emails, etc without making a real order.
+
+
