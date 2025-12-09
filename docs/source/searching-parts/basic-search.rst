@@ -15,9 +15,9 @@ Accessing the Search Interface
 
 To start searching for parts:
 
-1. **Click "Part Enquiry"** in the main navigation
-2. Or **use the search box** on your dashboard
-3. Or **click "Search parts"** from quick actions
+1. Click "Part Enquiry" in the main navigation
+2. Or use the search box on your dashboard
+3. Or click "Search parts" from quick actions
 
 The search interface includes:
 - Search input field with auto-complete
@@ -42,10 +42,12 @@ Exact Part Number Search
 
 **When to use:** When you know the complete, exact part number.
 
-**How it works:**
-1. **Select "Exact Part Number"** from the dropdown
-2. **Enter the complete part number** (e.g., "HYD-123-456")
-3. **Click Search** or press Enter
+How it works
+~~~~~~~~~~~~
+
+1. Select "Exact Part Number" from the dropdown
+2. Enter the complete part number (e.g., "HYD-123-456")
+3. Click Search or press Enter
 
 **What you get:**
 - Complete part information and specifications
@@ -85,10 +87,12 @@ Fuzzy Part Number Search
 
 **When to use:** When you're not sure of the exact part number or want to find similar parts.
 
-**How it works:**
-1. **Select "Fuzzy Part Number"** from the dropdown
-2. **Enter a partial or approximate part number** (e.g., "HYD-123")
-3. **Click Search**
+How it works
+~~~~~~~~~~~~
+
+1. Select "Fuzzy Part Number" from the dropdown
+2. Enter a partial or approximate part number (e.g., "HYD-123")
+3. Click Search
 
 **What you get:**
 - Multiple results matching your criteria
@@ -119,10 +123,12 @@ Description Search
 
 **When to use:** When you know what the part does but not the part number.
 
-**How it works:**
-1. **Select "Description"** from the dropdown
-2. **Enter keywords describing the part** (e.g., "hydraulic pump seal")
-3. **Click Search**
+How it works
+~~~~~~~~~~~~
+
+1. Select "Description" from the dropdown
+2. Enter keywords describing the part (e.g., "hydraulic pump seal")
+3. Click Search
 
 **What you get:**
 - Parts matching your description keywords
@@ -160,12 +166,14 @@ As you type in the search box, the auto-complete feature provides:
 - Parts from your favorites
 - Related part numbers
 
-**Using Auto-Complete:**
-1. **Start typing** in the search box
-2. **Watch for suggestions** that appear below
-3. **Click on a suggestion** to select it automatically
-4. **Use arrow keys** to navigate suggestions
-5. **Press Tab or Enter** to accept a highlighted suggestion
+Using Auto-Complete
+~~~~~~~~~~~~~~~~~~~
+
+1. Start typing in the search box
+2. Watch for suggestions that appear below
+3. Click on a suggestion to select it automatically
+4. Use arrow keys to navigate suggestions
+5. Press Tab or Enter to accept a highlighted suggestion
 
 Understanding Search Results
 ----------------------------
@@ -220,24 +228,32 @@ Search Result Actions
 
 From search results, you can:
 
-**Add to Cart:**
-1. **Specify quantity** needed
-2. **Click "Add to Cart"**
-3. **Confirm addition** with notification
+Add to Cart
+~~~~~~~~~~~
 
-**Check Supplier Stock:**
-- **Click "Check Stauff Stock"** for extended availability
-- **View pricing** from suppliers
-- **Add supplier items** directly to cart
+1. Specify quantity needed
+2. Click "Add to Cart"
+3. Confirm addition with notification
 
-**Add to Favorites:**
-- **Click the star icon** to save frequently ordered parts
-- **Access from favorites** section for quick reordering
+Check Supplier Stock
+~~~~~~~~~~~~~~~~~~~~
 
-**View Detailed Information:**
-- **Click part number** to see full specifications
-- **Browse through tabs** for technical details
-- **Download documentation** if available
+- Click "Check Stauff Stock" for extended availability
+- View pricing from suppliers
+- Add supplier items directly to cart
+
+Add to Favorites
+~~~~~~~~~~~~~~~~
+
+- Click the star icon to save frequently ordered parts
+- Access from favorites section for quick reordering
+
+View Detailed Information
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- Click part number to see full specifications
+- Browse through tabs for technical details
+- Download documentation if available
 
 Search Tips and Best Practices
 -------------------------------

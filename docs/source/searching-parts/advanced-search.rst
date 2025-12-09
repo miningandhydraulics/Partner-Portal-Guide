@@ -37,23 +37,29 @@ Advanced Search Features
 Using Advanced Search
 ---------------------
 
-**Basic Advanced Search:**
-1. **Enter search criteria** in multiple fields
-2. **Select product categories** to filter
-3. **Set specification ranges** if needed
-4. **Click "Search"** to see results
+Basic Advanced Search
+~~~~~~~~~~~~~~~~~~~~~
 
-**Stauff Supplier Search:**
-1. **Access the Stauff integration** panel
-2. **Enter part specifications** or descriptions
-3. **Review supplier results** with pricing
-4. **Add items directly** to your cart
+1. Enter search criteria in multiple fields
+2. Select product categories to filter
+3. Set specification ranges if needed
+4. Click "Search" to see results
 
-**Search Combinations:**
-- **Combine part numbers** with descriptions
-- **Use wildcards** (* and ?) for pattern matching
-- **Filter by specifications** for technical requirements
-- **Set quantity ranges** for bulk searches
+Stauff Supplier Search
+~~~~~~~~~~~~~~~~~~~~~~
+
+1. Access the Stauff integration panel
+2. Enter part specifications or descriptions
+3. Review supplier results with pricing
+4. Add items directly to your cart
+
+Search Combinations
+~~~~~~~~~~~~~~~~~~~
+
+- Combine part numbers with descriptions
+- Use wildcards (``*`` and ``?``) for pattern matching
+- Filter by specifications for technical requirements
+- Set quantity ranges for bulk searches
 
 Understanding Advanced Results
 ------------------------------

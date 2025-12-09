@@ -79,11 +79,12 @@ What to Include in Your Support Request
 - Mention your company: "[Company Name] - Cart not saving items"
 
 **Detailed Description:**
-1. **What you were trying to do**
-2. **What happened instead**
-3. **Error messages received**
-4. **Steps you've already tried**
-5. **Impact on your business**
+
+1. What you were trying to do
+2. What happened instead
+3. Error messages received
+4. Steps you've already tried
+5. Impact on your business
 
 **Example Support Request:**
 
@@ -165,10 +166,11 @@ Escalation Process
 - Service level discussions
 
 **How to Escalate:**
-1. **Ask to speak** with a supervisor
-2. **Reference your case** number or previous communications
-3. **Explain previous** attempts to resolve
-4. **Clearly state** business impact
+
+1. Ask to speak with a supervisor
+2. Reference your case number or previous communications
+3. Explain previous attempts to resolve
+4. Clearly state business impact
 
 Emergency Support
 -----------------
@@ -180,11 +182,12 @@ Emergency Support
 - **Security incidents** or suspicious activity
 
 **Emergency Contact Process:**
-1. **Call main support** number first
-2. **If after hours**, use emergency contact
-3. **Clearly state** this is an emergency
-4. **Explain business** impact and urgency
-5. **Provide all relevant** account information
+
+1. Call main support number first
+2. If after hours, use emergency contact
+3. Clearly state this is an emergency
+4. Explain business impact and urgency
+5. Provide all relevant account information
 
 **Emergency Response:**
 - **Initial response** within 2-4 hours
@@ -278,9 +281,9 @@ Next Steps
 
 If you need to contact support:
 
-1. **Gather all relevant information** first
-2. **Try the appropriate** support channel
-3. **Follow up** if you don't receive a response
-4. **Provide feedback** after resolution
+1. Gather all relevant information first
+2. Try the appropriate support channel
+3. Follow up if you don't receive a response
+4. Provide feedback after resolution
 
 Remember: The MHS support team is here to help you succeed with the Partner Portal. Don't hesitate to reach out when you need assistance.

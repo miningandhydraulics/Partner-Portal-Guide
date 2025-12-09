@@ -43,14 +43,15 @@ Adding Parts from Search Results
 
 *Screenshot needed: Part details page showing the quantity input field, "Add to Cart" button, stock status, and pricing information, with the Add to Cart button highlighted*
 
-**From Exact Search Results:**
+From Exact Search Results
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-1. **Search for a specific part** using exact part number
-2. **Review the part information** and specifications
-3. **Set your desired quantity** in the quantity field
-4. **Click "Add to Cart"** button
-5. **Confirmation notification** appears
-6. **Part is added** to your cart immediately
+1. Search for a specific part using exact part number
+2. Review the part information and specifications
+3. Set your desired quantity in the quantity field
+4. Click "Add to Cart" button
+5. Confirmation notification appears
+6. Part is added to your cart immediately
 
 .. image:: /_static/images/cart-add-confirmation.png
    :alt: Cart confirmation notification showing item added successfully
@@ -59,7 +60,8 @@ Adding Parts from Search Results
 
 *Screenshot needed: Success notification popup showing "HYD-123-456 (qty: 2) added to cart successfully" with green checkmark icon*
 
-**From Multiple Search Results:**
+From Multiple Search Results
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. image:: /_static/images/cart-add-from-results-table.png
    :alt: Search results table showing multiple parts with individual Add to Cart buttons
@@ -68,11 +70,11 @@ Adding Parts from Search Results
 
 *Screenshot needed: Search results table showing multiple parts, each with quantity fields and "Add to Cart" buttons, with one part highlighted as being added*
 
-1. **Perform a fuzzy or description search**
-2. **Browse the results table** to find desired parts
-3. **Click on a part number** to view full details
-4. **Follow the same process** as exact search
-5. **Return to results** to add additional parts
+1. Perform a fuzzy or description search
+2. Browse the results table to find desired parts
+3. Click on a part number to view full details
+4. Follow the same process as exact search
+5. Return to results to add additional parts
 
 **Quantity Considerations:**
 - **Default quantity** is usually 1
@@ -90,29 +92,37 @@ Adding Parts from Search Results
 Adding from Different Sources
 -----------------------------
 
-**From Favorites:**
-1. **Access your favorites** list
-2. **Click on a favorite part** to view details
-3. **Set quantity** and add to cart
-4. **Quick add** functionality for frequent orders
+From Favorites
+~~~~~~~~~~~~~~
 
-**From QR Scanning:**
-1. **Scan a part QR code** or barcode
-2. **Review the automatically loaded part**
-3. **Adjust quantity** if needed
-4. **Add directly** to cart from scan results
+1. Access your favorites list
+2. Click on a favorite part to view details
+3. Set quantity and add to cart
+4. Quick add functionality for frequent orders
 
-**From Order History:**
-1. **View your recent orders**
-2. **Click "Reorder"** on specific items
-3. **Parts added** with previous quantities
-4. **Modify quantities** before final checkout
+From QR Scanning
+~~~~~~~~~~~~~~~~
 
-**From Supplier Integration:**
-1. **Use Stauff stock checking** features
-2. **Review supplier availability** and pricing
-3. **Add supplier items** directly to cart
-4. **Mixed cart** with local and supplier items
+1. Scan a part QR code or barcode
+2. Review the automatically loaded part
+3. Adjust quantity if needed
+4. Add directly to cart from scan results
+
+From Order History
+~~~~~~~~~~~~~~~~~~
+
+1. View your recent orders
+2. Click "Reorder" on specific items
+3. Parts added with previous quantities
+4. Modify quantities before final checkout
+
+From Supplier Integration
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+1. Use Stauff stock checking features
+2. Review supplier availability and pricing
+3. Add supplier items directly to cart
+4. Mixed cart with local and supplier items
 
 Cart Management
 ---------------
@@ -124,13 +134,16 @@ Cart Management
 
 *Screenshot needed: Full cart page showing multiple items with part numbers, descriptions, quantities, unit prices, line totals, and overall cart total at bottom*
 
-**Viewing Your Cart:**
-1. **Click the cart icon** in the navigation
-2. **Or use "View Cart"** from dashboard quick actions
-3. **Review all items** with quantities and pricing
-4. **See total order value** and item count
+Viewing Your Cart
+~~~~~~~~~~~~~~~~~
 
-**Modifying Cart Contents:**
+1. Click the cart icon in the navigation
+2. Or use "View Cart" from dashboard quick actions
+3. Review all items with quantities and pricing
+4. See total order value and item count
+
+Modifying Cart Contents
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. image:: /_static/images/cart-modify-quantities.png
    :alt: Cart items showing quantity fields being modified with real-time total updates
@@ -139,17 +152,21 @@ Cart Management
 
 *Screenshot needed: Cart items with quantity fields highlighted, showing one quantity being changed from 2 to 5, with totals updating in real-time*
 
-**Changing Quantities:**
-1. **Find the item** in your cart
-2. **Update the quantity field**
-3. **Changes save automatically**
-4. **Total updates** in real-time
+Changing Quantities
+^^^^^^^^^^^^^^^^^^^
 
-**Removing Items:**
-1. **Click "Remove"** next to unwanted items
-2. **Confirm removal** if prompted
-3. **Item disappears** immediately
-4. **Cart totals update** automatically
+1. Find the item in your cart
+2. Update the quantity field
+3. Changes save automatically
+4. Total updates in real-time
+
+Removing Items
+^^^^^^^^^^^^^^
+
+1. Click "Remove" next to unwanted items
+2. Confirm removal if prompted
+3. Item disappears immediately
+4. Cart totals update automatically
 
 .. image:: /_static/images/cart-remove-item.png
    :alt: Cart item with Remove button highlighted and confirmation dialog
@@ -158,11 +175,13 @@ Cart Management
 
 *Screenshot needed: Cart item with "Remove" button highlighted and confirmation dialog asking "Are you sure you want to remove this item from your cart?"*
 
-**Clearing Entire Cart:**
-1. **Click "Clear Cart"** button
-2. **Confirm you want to remove all items**
-3. **Cart empties** completely
-4. **Start fresh** with new selections
+Clearing Entire Cart
+^^^^^^^^^^^^^^^^^^^^
+
+1. Click "Clear Cart" button
+2. Confirm you want to remove all items
+3. Cart empties completely
+4. Start fresh with new selections
 
 Understanding Cart Information
 ------------------------------

@@ -22,15 +22,19 @@ Accessing the QR Scanner
 
 *Screenshot needed: Search interface showing the QR scanner icon next to the search box, with the icon highlighted and labeled*
 
-**From the Main Navigation:**
-1. **Click "Part Enquiry"** in the navigation menu
-2. **Look for the QR scanner icon** in the search area
-3. **Click the scanner icon** to activate the camera
+From the Main Navigation
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**From Mobile Devices:**
-1. **Navigate to Part Enquiry** on your mobile device
-2. **Tap the QR code icon** next to the search box
-3. **Allow camera permissions** when prompted
+1. Click "Part Enquiry" in the navigation menu
+2. Look for the QR scanner icon in the search area
+3. Click the scanner icon to activate the camera
+
+From Mobile Devices
+~~~~~~~~~~~~~~~~~~~~
+
+1. Navigate to Part Enquiry on your mobile device
+2. Tap the QR code icon next to the search box
+3. Allow camera permissions when prompted
 
 .. image:: /_static/images/qr-scanner-mobile-access.png
    :alt: Mobile search interface showing QR scanner icon and camera permission prompt
@@ -46,12 +50,14 @@ Accessing the QR Scanner
 Setting Up QR Scanning
 -----------------------
 
-**Camera Permissions:**
+Camera Permissions
+~~~~~~~~~~~~~~~~~~
+
 When you first use the scanner, your browser will request camera access:
 
-1. **Click "Allow"** when prompted
-2. **Select the appropriate camera** (usually back camera on mobile)
-3. **Ensure good lighting** for best scanning results
+1. Click "Allow" when prompted
+2. Select the appropriate camera (usually back camera on mobile)
+3. Ensure good lighting for best scanning results
 
 **Mobile Setup:**
 - **Add to home screen** for quick access
@@ -68,11 +74,13 @@ How to Scan QR Codes
 
 *Screenshot needed: QR scanner interface showing the camera view with a QR code in the center frame, scanning guide lines, and instructions*
 
-**Basic Scanning Process:**
-1. **Open the QR scanner**
-2. **Point your camera** at the QR code or barcode
-3. **Hold steady** until the code is recognized
-4. **Wait for automatic search** to complete
+Basic Scanning Process
+~~~~~~~~~~~~~~~~~~~~~~~
+
+1. Open the QR scanner
+2. Point your camera at the QR code or barcode
+3. Hold steady until the code is recognized
+4. Wait for automatic search to complete
 
 **Scanning Tips:**
 - **Hold the device steady** for 2-3 seconds
@@ -125,21 +133,27 @@ The scanner recognizes:
 Using QR Scanning Effectively
 ------------------------------
 
-**In the Warehouse:**
-1. **Scan parts directly** from shelves or bins
-2. **Verify part numbers** before ordering
-3. **Check stock levels** instantly
-4. **Add to cart** for immediate ordering
+In the Warehouse
+~~~~~~~~~~~~~~~~
 
-**For Inventory Management:**
-- **Scan multiple items** quickly
-- **Build orders efficiently** using mobile device
-- **Verify part authenticity** against your records
+1. Scan parts directly from shelves or bins
+2. Verify part numbers before ordering
+3. Check stock levels instantly
+4. Add to cart for immediate ordering
 
-**For Reordering:**
-- **Scan empty packaging** to reorder parts
-- **Use QR codes** from previous orders or invoices
-- **Quick lookup** for maintenance schedules
+For Inventory Management
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- Scan multiple items quickly
+- Build orders efficiently using mobile device
+- Verify part authenticity against your records
+
+For Reordering
+~~~~~~~~~~~~~~
+
+- Scan empty packaging to reorder parts
+- Use QR codes from previous orders or invoices
+- Quick lookup for maintenance schedules
 
 Troubleshooting QR Scanning
 ----------------------------
@@ -230,16 +244,20 @@ You can create your own QR codes for frequently ordered parts:
 Advanced QR Features
 ---------------------
 
-**Bulk Scanning Workflow:**
-1. **Scan multiple parts** sequentially
-2. **Parts automatically added** to current search session
-3. **Review all scanned parts** before adding to cart
-4. **Batch process** for efficiency
+Bulk Scanning Workflow
+~~~~~~~~~~~~~~~~~~~~~~~
 
-**Integration with Favorites:**
-- **Scan parts** to automatically add to favorites
-- **Create QR codes** for your most-ordered parts
-- **Build custom part libraries** using QR codes
+1. Scan multiple parts sequentially
+2. Parts automatically added to current search session
+3. Review all scanned parts before adding to cart
+4. Batch process for efficiency
+
+Integration with Favorites
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- Scan parts to automatically add to favorites
+- Create QR codes for your most-ordered parts
+- Build custom part libraries using QR codes
 
 Next Steps
 ----------
