@@ -16,12 +16,10 @@ The checkout process includes:
 Starting the Checkout Process
 -----------------------------
 
-.. image:: /_static/images/checkout-cart-review.png
+.. image:: /_static/images/Checkout Process/Proceeding to checkout.JPG
    :alt: Cart review page showing Proceed to Checkout button and pre-checkout validation
    :width: 1000px
    :class: screenshot
-
-*Screenshot needed: Cart page showing items ready for checkout, with "Proceed to Checkout" button highlighted, stock validation indicators, and pre-checkout summary*
 
 **From Your Cart:**
 1. **Review your cart contents** thoroughly
@@ -67,12 +65,10 @@ Checkout Steps
 
 **Step 2: Delivery Information**
 
-.. image:: /_static/images/checkout-step2-delivery.png
+.. image:: /_static/images/Checkout Process/Delivery Address.JPG
    :alt: Checkout step 2 showing delivery address selection and delivery options
    :width: 1000px
    :class: screenshot
-
-*Screenshot needed: Checkout step 2 page showing "Delivery Information" header, saved addresses dropdown, new address form fields, delivery options radio buttons, and special instructions text area*
 
 **Delivery Address Selection:**
 1. **Choose from saved addresses** in your account
@@ -94,12 +90,10 @@ Checkout Steps
 
 **Step 3: Order Details**
 
-.. image:: /_static/images/checkout-step3-details.png
+.. image:: /_static/images/Checkout Process/Order instructions.JPG
    :alt: Checkout step 3 showing purchase order reference fields and order notes
    :width: 1000px
    :class: screenshot
-
-*Screenshot needed: Checkout step 3 page showing "Order Details" header, PO number input field, project code field, special references field, and order notes text area*
 
 **Purchase Order Reference:**
 - **Add your PO number** for invoice matching
@@ -114,12 +108,10 @@ Checkout Steps
 
 **Step 4: Final Confirmation**
 
-.. image:: /_static/images/checkout-step4-confirmation.png
+.. image:: /_static/images/Checkout Process/Order summary.JPG
    :alt: Checkout step 4 showing final order summary and Place Order button
    :width: 1000px
    :class: screenshot
-
-*Screenshot needed: Checkout step 4 page showing "Final Confirmation" header, complete order summary, total order value, delivery timeline, terms checkbox, and prominent "Place Order" button*
 
 **Order Summary Review:**
 - **Complete item list** with final quantities
@@ -248,12 +240,10 @@ Checkout Validation and Errors
 Order Confirmation
 ------------------
 
-.. image:: /_static/images/checkout-order-confirmation.png
+.. image:: /_static/images/Checkout Process/Order number.JPG
    :alt: Order confirmation page showing successful order placement with order number
    :width: 1000px
    :class: screenshot
-
-*Screenshot needed: Order confirmation page showing "Order Placed Successfully" message, order number #12345, order summary, delivery timeline, and "View Order Status" button*
 
 **Immediate Confirmation:**
 After successful order placement:
@@ -307,12 +297,10 @@ Post-Checkout Actions
 Mobile Checkout
 ---------------
 
-.. image:: /_static/images/checkout-mobile-interface.png
+.. image:: /_static/images/Checkout Process/Mobile Checkout Interface 1.jpg
    :alt: Mobile checkout interface showing touch-friendly design across all steps
    :width: 400px
    :class: screenshot mobile-screenshot
-
-*Screenshot needed: Mobile checkout interface (portrait orientation) showing step-by-step checkout process with large touch targets, simplified navigation, and prominent action buttons*
 
 **Mobile-Optimized Process:**
 - **Touch-friendly interface** for all steps
@@ -326,12 +314,10 @@ Mobile Checkout
 - **Push notifications** for order updates
 - **Offline form** completion where possible
 
-.. image:: /_static/images/checkout-mobile-steps.png
+.. image:: /_static/images/Checkout Process/Mobile Checkout Interface 2.jpg
    :alt: Mobile checkout showing step progression indicator and form fields
    :width: 400px
    :class: screenshot mobile-screenshot
-
-*Screenshot needed: Mobile checkout showing step progression (1 of 4), form fields optimized for mobile input, and next/previous navigation buttons*
 
 Troubleshooting Checkout Issues
 -------------------------------

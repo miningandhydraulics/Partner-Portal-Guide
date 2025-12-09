@@ -36,12 +36,10 @@ Cart Features
 Adding Parts from Search Results
 ---------------------------------
 
-.. image:: /_static/images/cart-add-from-search.png
+.. image:: /_static/images/Adding Items To Cart/Adding parts from search results.JPG
    :alt: Adding part to cart from search results showing quantity field and Add to Cart button
    :width: 900px
    :class: screenshot
-
-*Screenshot needed: Part details page showing the quantity input field, "Add to Cart" button, stock status, and pricing information, with the Add to Cart button highlighted*
 
 From Exact Search Results
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -53,12 +51,10 @@ From Exact Search Results
 5. Confirmation notification appears
 6. Part is added to your cart immediately
 
-.. image:: /_static/images/cart-add-confirmation.png
+.. image:: /_static/images/Adding Items To Cart/Cart confirmation notification item added successfully.JPG
    :alt: Cart confirmation notification showing item added successfully
    :width: 600px
    :class: screenshot
-
-*Screenshot needed: Success notification popup showing "HYD-123-456 (qty: 2) added to cart successfully" with green checkmark icon*
 
 From Multiple Search Results
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -127,12 +123,10 @@ From Supplier Integration
 Cart Management
 ---------------
 
-.. image:: /_static/images/cart-overview.png
+.. image:: /_static/images/Adding Items To Cart/Cart page showing items.JPG
    :alt: Cart page showing all items with quantities, pricing, and total value
    :width: 1000px
    :class: screenshot
-
-*Screenshot needed: Full cart page showing multiple items with part numbers, descriptions, quantities, unit prices, line totals, and overall cart total at bottom*
 
 Viewing Your Cart
 ~~~~~~~~~~~~~~~~~
@@ -145,12 +139,10 @@ Viewing Your Cart
 Modifying Cart Contents
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. image:: /_static/images/cart-modify-quantities.png
+.. image:: /_static/images/Adding Items To Cart/Quantity cart update notification.JPG
    :alt: Cart items showing quantity fields being modified with real-time total updates
    :width: 900px
    :class: screenshot
-
-*Screenshot needed: Cart items with quantity fields highlighted, showing one quantity being changed from 2 to 5, with totals updating in real-time*
 
 Changing Quantities
 ^^^^^^^^^^^^^^^^^^^
@@ -186,12 +178,10 @@ Clearing Entire Cart
 Understanding Cart Information
 ------------------------------
 
-.. image:: /_static/images/cart-item-details.png
+.. image:: /_static/images/Adding Items To Cart/Cart item details.JPG
    :alt: Detailed cart item showing part number, description, quantity, pricing, and stock status
    :width: 900px
    :class: screenshot
-
-*Screenshot needed: Individual cart item showing part number "HYD-123-456", description "Hydraulic Pump Seal", quantity "2", unit price "$45.67", line total "$91.34", and green stock indicator "In Stock (25 available)"*
 
 **Item Details Shown:**
 - **Part number** and description
@@ -274,12 +264,10 @@ Cart Best Practices
 Mobile Cart Management
 ----------------------
 
-.. image:: /_static/images/cart-mobile-interface.png
+.. image:: /_static/images/Adding Items To Cart/Mobile Cart Page.jpg
    :alt: Mobile cart interface showing touch-friendly layout with swipe actions
    :width: 400px
    :class: screenshot mobile-screenshot
-
-*Screenshot needed: Mobile cart view (portrait orientation) showing items with large touch targets, swipe-to-remove indicators, and prominent checkout button*
 
 **Mobile-Specific Features:**
 - **Touch-friendly interface** for easy quantity changes
@@ -330,12 +318,10 @@ Troubleshooting Cart Issues
 Cart Security
 -------------
 
-.. image:: /_static/images/cart-security-indicators.png
+.. image:: /_static/images/Adding Items To Cart/Site is secure.png
    :alt: Cart page showing security indicators like SSL encryption badge
    :width: 600px
    :class: screenshot
-
-*Screenshot needed: Cart page showing security indicators such as SSL lock icon, "Secure Connection" badge, and privacy notice*
 
 **Data Protection:**
 - **Cart contents encrypted** during transmission
