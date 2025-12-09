@@ -6,7 +6,10 @@ Explore powerful advanced features that can streamline your workflow and enhance
 .. toctree::
    :maxdepth: 2
 
+   bulk-query
    bulk-upload
+   developer-portal
+   api-integration
    part-number-management
    stauff-integration
 
@@ -15,11 +18,30 @@ Advanced Features Overview
 
 The MHS Partner Portal includes sophisticated features for power users:
 
+**🔍 Bulk Query**
+   - Check multiple part numbers simultaneously
+   - Get real-time pricing and availability for entire parts lists
+   - Export results for quote preparation
+   - Add available items directly to cart
+
 **📋 Bulk Upload and Ordering**
    - Upload large orders from spreadsheets
    - Validate parts and stock in bulk
    - Process multiple items simultaneously
    - Handle complex ordering scenarios
+
+**💻 Developer Portal**
+   - Generate API keys for programmatic access
+   - Manage multiple keys with granular permissions
+   - Monitor API usage and rate limits
+   - Enable secure system integration
+
+**🔌 REST API Integration**
+   - Full programmatic access to portal functionality
+   - Search products and check stock via API
+   - Create orders programmatically
+   - Track order status automatically
+   - Integrate with ERP and inventory systems
 
 **🔧 Advanced Part Management**
    - Custom part number mapping systems
@@ -32,12 +54,6 @@ The MHS Partner Portal includes sophisticated features for power users:
    - Real-time supplier stock checking
    - Extended catalog access
    - Competitive pricing comparison
-
-**📊 Analytics and Reporting**
-   - Order pattern analysis
-   - Spending trend tracking
-   - Usage analytics
-   - Performance metrics
 
 Key Advanced Capabilities
 -------------------------
@@ -157,6 +173,9 @@ Next Steps
 
 Explore advanced features step by step:
 
-1. :doc:`bulk-upload` - Learn to upload and process large orders efficiently
-2. :doc:`part-number-management` - Master custom part number mapping and management
-3. :doc:`stauff-integration` - Leverage supplier integration for extended inventory
+1. :doc:`bulk-query` - Check pricing and availability for multiple parts at once
+2. :doc:`bulk-upload` - Learn to upload and process large orders efficiently
+3. :doc:`developer-portal` - Generate API keys for programmatic access
+4. :doc:`api-integration` - Build custom integrations with the REST API
+5. :doc:`part-number-management` - Master custom part number mapping and management
+6. :doc:`stauff-integration` - Leverage supplier integration for extended inventory

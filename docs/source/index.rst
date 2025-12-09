@@ -46,6 +46,15 @@ Key Features
 **📊 Order Tracking**
    Complete order history and status tracking
 
+**🔍 Bulk Query**
+   Check pricing and availability for multiple parts simultaneously - perfect for quote preparation
+
+**🔌 REST API Integration**
+   Full programmatic access for ERP integration, automated ordering, and custom applications
+
+**💻 Developer Portal**
+   Generate and manage API keys with granular permissions for secure system integration
+
 About This Guide
 ----------------
 
@@ -55,6 +64,8 @@ This user guide covers all customer-facing features of the MHS Partner Portal. I
 - **Find parts efficiently** using our advanced search tools
 - **Place orders confidently** with our smart ordering system
 - **Manage your account** effectively
+- **Integrate with your systems** through our REST API
+- **Automate workflows** with programmatic access
 - **Troubleshoot common issues** independently
 
 Support
