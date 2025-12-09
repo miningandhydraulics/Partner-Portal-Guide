@@ -6,7 +6,7 @@ The basic search interface is your primary tool for finding parts in the MHS Par
 Accessing the Search Interface
 ------------------------------
 
-.. image:: /_static/images/Basic_Search/Accessingthesearchinterface.JPG
+.. image:: ../_static/images/Basic_Search/Accessingthesearchinterface.JPG
    :alt: Main search interface showing search input field, type selector, and search button
    :width: 800px
    :class: screenshot
@@ -33,7 +33,7 @@ The portal offers three distinct search methods:
 Exact Part Number Search
 ------------------------
 
-.. image:: /_static/images/Basic_Search/Exact part number search.png
+.. image:: ../_static/images/Basic_Search/Exact part number search.png
    :alt: Exact part number search interface with dropdown selected and sample part number entered
    :width: 800px
    :class: screenshot
@@ -54,7 +54,7 @@ How it works
 - Technical documentation
 - Related parts and alternatives
 
-.. image:: /_static/images/Basic_Search/Exact Search Results.JPG
+.. image:: ../_static/images/Basic_Search/Exact Search Results.JPG
    :alt: Exact search results showing detailed part information panel with specifications, stock, and pricing
    :width: 1000px
    :class: screenshot
@@ -74,7 +74,7 @@ If you search for an alternative or legacy part number:
 Fuzzy Part Number Search
 ------------------------
 
-.. image:: /_static/images/Basic_Search/Fuzzy Part Number Search.png
+.. image:: ../_static/images/Basic_Search/Fuzzy Part Number Search.png
    :alt: Fuzzy search interface showing dropdown selection and partial part number entry
    :width: 800px
    :class: screenshot
@@ -93,7 +93,7 @@ How it works
 - Parts with similar part numbers
 - Ranked by relevance to your search term
 
-.. image:: /_static/images/Basic_Search/Fuzzy Part Number Results.JPG
+.. image:: ../_static/images/Basic_Search/Fuzzy Part Number Results.JPG
    :alt: Fuzzy search results showing multiple parts in table format with relevance ranking
    :width: 1000px
    :class: screenshot
@@ -106,7 +106,7 @@ How it works
 Description Search
 ------------------
 
-.. image:: /_static/images/Basic_Search/Part Description Search.png
+.. image:: ../_static/images/Basic_Search/Part Description Search.png
    :alt: Description search interface showing dropdown selection and keyword entry
    :width: 800px
    :class: screenshot
@@ -125,7 +125,7 @@ How it works
 - Sorted by relevance
 - Multiple product categories
 
-.. image:: /_static/images/Basic_Search/Part Description Results.JPG
+.. image:: ../_static/images/Basic_Search/Part Description Results.JPG
    :alt: Description search results showing various hydraulic pump seals with descriptions and categories
    :width: 1000px
    :class: screenshot
@@ -139,7 +139,7 @@ How it works
 Auto-Complete Feature
 ---------------------
 
-.. image:: /_static/images/Basic_Search/Auto complete drop down.JPG
+.. image:: ../_static/images/Basic_Search/Auto complete drop down.JPG
    :alt: Auto-complete dropdown showing smart suggestions as user types
    :width: 700px
    :class: screenshot
@@ -184,7 +184,7 @@ When multiple parts match, you'll see:
 Stock Information Display
 -------------------------
 
-.. image:: /_static/images/Basic_Search/Stock information.JPG
+.. image:: ../_static/images/Basic_Search/Stock information.JPG
    :alt: Search results showing different stock status indicators in green, yellow, and red
    :width: 900px
    :class: screenshot
@@ -286,7 +286,7 @@ Common Search Scenarios
 Mobile Search
 -------------
 
-.. image:: /_static/images/Basic_Search/Mobile Search.jpg
+.. image:: ../_static/images/Basic_Search/Mobile Search.jpg
    :alt: Mobile search interface showing touch-friendly layout with large search box and QR scanner button
    :width: 400px
    :class: screenshot mobile-screenshot
@@ -297,7 +297,7 @@ On mobile devices:
 - **Swipe through results** easily
 - **Access QR scanner** for quick part lookup
 
-.. image:: /_static/images/Basic_Search/Mobile search results.jpg
+.. image:: ../_static/images/Basic_Search/Mobile search results.jpg
    :alt: Mobile search results showing swipeable cards with part information
    :width: 400px
    :class: screenshot mobile-screenshot

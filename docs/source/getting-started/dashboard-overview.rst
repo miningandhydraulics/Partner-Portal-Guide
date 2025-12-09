@@ -6,7 +6,7 @@ Your dashboard is the central hub of the MHS Partner Portal. This guide will hel
 Dashboard Layout
 ----------------
 
-.. image:: /_static/images/Getting Started/Dashboard Page.JPG
+.. image:: ../_static/images/Getting Started/Dashboard Page.JPG
    :alt: Complete MHS Partner Portal dashboard showing all sections and layout
    :width: 1200px
    :class: screenshot
@@ -32,7 +32,7 @@ At the top of your dashboard:
 Key Metrics Cards
 -----------------
 
-.. image:: /_static/images/Getting Started/Metric Cards.JPG
+.. image:: ../_static/images/Getting Started/Metric Cards.JPG
    :alt: Dashboard metrics cards showing cart status, pending orders, monthly orders, account status, and airbag countdown
    :width: 1000px
    :class: screenshot
@@ -70,7 +70,7 @@ Five metric cards provide instant insights:
 Recent Activity Feed
 --------------------
 
-.. image:: /_static/images/Getting Started/Recent Activity.JPG
+.. image:: ../_static/images/Getting Started/Recent Activity.JPG
    :alt: Recent activity feed showing order updates, search history, and cart activity
    :width: 800px
    :class: screenshot
@@ -103,7 +103,7 @@ The activity feed shows your recent actions:
 Quick Actions Panel
 -------------------
 
-.. image:: /_static/images/Getting Started/Quick Actions.JPG
+.. image:: ../_static/images/Getting Started/Quick Actions.JPG
    :alt: Quick actions panel showing context-aware buttons like "Checkout 3 items" and "Search parts"
    :width: 600px
    :class: screenshot
@@ -140,7 +140,7 @@ Shows important account information:
 System Status Monitor
 ---------------------
 
-.. image:: /_static/images/Getting Started/System Status.JPG
+.. image:: ../_static/images/Getting Started/System Status.JPG
    :alt: System status monitor showing green "All systems operational" with component health indicators
    :width: 700px
    :class: screenshot
@@ -204,7 +204,7 @@ Dashboard Tips
 Mobile Dashboard
 ----------------
 
-.. image:: /_static/images/Getting Started/Mobile Dashboard.jpg
+.. image:: ../_static/images/Getting Started/Mobile Dashboard.jpg
    :alt: Mobile dashboard showing vertical stacked layout with touch-friendly interface
    :width: 400px
    :class: screenshot mobile-screenshot

@@ -36,7 +36,7 @@ Cart Features
 Adding Parts from Search Results
 ---------------------------------
 
-.. image:: /_static/images/Adding Items To Cart/Adding parts from search results.JPG
+.. image:: ../_static/images/Adding Items To Cart/Adding parts from search results.JPG
    :alt: Adding part to cart from search results showing quantity field and Add to Cart button
    :width: 900px
    :class: screenshot
@@ -51,7 +51,7 @@ From Exact Search Results
 5. Confirmation notification appears
 6. Part is added to your cart immediately
 
-.. image:: /_static/images/Adding Items To Cart/Cart confirmation notification item added successfully.JPG
+.. image:: ../_static/images/Adding Items To Cart/Cart confirmation notification item added successfully.JPG
    :alt: Cart confirmation notification showing item added successfully
    :width: 600px
    :class: screenshot
@@ -59,7 +59,7 @@ From Exact Search Results
 From Multiple Search Results
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. image:: /_static/images/cart-add-from-results-table.png
+.. image:: ../_static/images/cart-add-from-results-table.png
    :alt: Search results table showing multiple parts with individual Add to Cart buttons
    :width: 1000px
    :class: screenshot
@@ -78,7 +78,7 @@ From Multiple Search Results
 - **Stock warnings** appear if quantity exceeds availability
 - **Backorder notification** for insufficient stock
 
-.. image:: /_static/images/cart-stock-warning.png
+.. image:: ../_static/images/cart-stock-warning.png
    :alt: Stock warning message when quantity exceeds available stock
    :width: 700px
    :class: screenshot
@@ -123,7 +123,7 @@ From Supplier Integration
 Cart Management
 ---------------
 
-.. image:: /_static/images/Adding Items To Cart/Cart page showing items.JPG
+.. image:: ../_static/images/Adding Items To Cart/Cart page showing items.JPG
    :alt: Cart page showing all items with quantities, pricing, and total value
    :width: 1000px
    :class: screenshot
@@ -139,7 +139,7 @@ Viewing Your Cart
 Modifying Cart Contents
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. image:: /_static/images/Adding Items To Cart/Quantity cart update notification.JPG
+.. image:: ../_static/images/Adding Items To Cart/Quantity cart update notification.JPG
    :alt: Cart items showing quantity fields being modified with real-time total updates
    :width: 900px
    :class: screenshot
@@ -160,7 +160,7 @@ Removing Items
 3. Item disappears immediately
 4. Cart totals update automatically
 
-.. image:: /_static/images/cart-remove-item.png
+.. image:: ../_static/images/cart-remove-item.png
    :alt: Cart item with Remove button highlighted and confirmation dialog
    :width: 700px
    :class: screenshot
@@ -178,7 +178,7 @@ Clearing Entire Cart
 Understanding Cart Information
 ------------------------------
 
-.. image:: /_static/images/Adding Items To Cart/Cart item details.JPG
+.. image:: ../_static/images/Adding Items To Cart/Cart item details.JPG
    :alt: Detailed cart item showing part number, description, quantity, pricing, and stock status
    :width: 900px
    :class: screenshot
@@ -196,7 +196,7 @@ Understanding Cart Information
 - **Estimated shipping** costs (where applicable)
 - **Total order value**
 
-.. image:: /_static/images/cart-stock-status-indicators.png
+.. image:: ../_static/images/cart-stock-status-indicators.png
    :alt: Cart showing different stock status indicators for various items
    :width: 800px
    :class: screenshot
@@ -264,7 +264,7 @@ Cart Best Practices
 Mobile Cart Management
 ----------------------
 
-.. image:: /_static/images/Adding Items To Cart/Mobile Cart Page.jpg
+.. image:: ../_static/images/Adding Items To Cart/Mobile Cart Page.jpg
    :alt: Mobile cart interface showing touch-friendly layout with swipe actions
    :width: 400px
    :class: screenshot mobile-screenshot
@@ -281,7 +281,7 @@ Mobile Cart Management
 - **Pull down** to refresh stock status
 - **Long press** for additional options
 
-.. image:: /_static/images/cart-mobile-quantity-edit.png
+.. image:: ../_static/images/cart-mobile-quantity-edit.png
    :alt: Mobile cart showing quantity editing interface with large buttons
    :width: 400px
    :class: screenshot mobile-screenshot
@@ -318,7 +318,7 @@ Troubleshooting Cart Issues
 Cart Security
 -------------
 
-.. image:: /_static/images/Adding Items To Cart/Site is secure.png
+.. image:: ../_static/images/Adding Items To Cart/Site is secure.png
    :alt: Cart page showing security indicators like SSL encryption badge
    :width: 600px
    :class: screenshot

@@ -15,7 +15,7 @@ QR code scanning allows you to:
 Accessing the QR Scanner
 -------------------------
 
-.. image:: /_static/images/QR Code Scanning/Where to access QR code scanner.jpg
+.. image:: ../_static/images/QR Code Scanning/Where to access QR code scanner.jpg
    :alt: QR scanner icon in the search interface showing where to access scanning feature
    :width: 800px
    :class: screenshot
@@ -34,7 +34,7 @@ From Mobile Devices
 2. Tap the QR code icon next to the search box
 3. Allow camera permissions when prompted
 
-.. image:: /_static/images/QR Code Scanning/QR Code Scanner Permission Request.jpg
+.. image:: ../_static/images/QR Code Scanning/QR Code Scanner Permission Request.jpg
    :alt: Mobile search interface showing QR scanner icon and camera permission prompt
    :width: 400px
    :class: screenshot mobile-screenshot
@@ -63,7 +63,7 @@ When you first use the scanner, your browser will request camera access:
 How to Scan QR Codes
 ---------------------
 
-.. image:: /_static/images/QR Code Scanning/QR code scanner frame.jpg
+.. image:: ../_static/images/QR Code Scanning/QR code scanner frame.jpg
    :alt: QR scanner interface showing camera view with QR code recognition frame
    :width: 800px
    :class: screenshot
@@ -83,7 +83,7 @@ Basic Scanning Process
 - **Use good lighting** for better recognition
 - **Clean the camera lens** if scanning is difficult
 
-.. image:: /_static/images/qr-scanner-scanning-process.png
+.. image:: ../_static/images/qr-scanner-scanning-process.png
    :alt: QR scanner showing successful code recognition with part number extracted
    :width: 700px
    :class: screenshot
@@ -96,7 +96,7 @@ Basic Scanning Process
 - Results are displayed just like a manual search
 - You can immediately add items to your cart
 
-.. image:: /_static/images/qr-scanner-results.png
+.. image:: ../_static/images/qr-scanner-results.png
    :alt: Search results page showing part found from QR code scan
    :width: 1000px
    :class: screenshot

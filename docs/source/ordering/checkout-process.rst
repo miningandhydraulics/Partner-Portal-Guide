@@ -16,7 +16,7 @@ The checkout process includes:
 Starting the Checkout Process
 -----------------------------
 
-.. image:: /_static/images/Checkout Process/Proceeding to checkout.JPG
+.. image:: ../_static/images/Checkout Process/Proceeding to checkout.JPG
    :alt: Cart review page showing Proceed to Checkout button and pre-checkout validation
    :width: 1000px
    :class: screenshot
@@ -37,7 +37,7 @@ The system automatically:
 Checkout Steps
 --------------
 
-.. image:: /_static/images/checkout-step1-review.png
+.. image:: ../_static/images/checkout-step1-review.png
    :alt: Checkout step 1 showing order review with cart summary and stock validation
    :width: 1000px
    :class: screenshot
@@ -65,7 +65,7 @@ Checkout Steps
 
 **Step 2: Delivery Information**
 
-.. image:: /_static/images/Checkout Process/Delivery Address.JPG
+.. image:: ../_static/images/Checkout Process/Delivery Address.JPG
    :alt: Checkout step 2 showing delivery address selection and delivery options
    :width: 1000px
    :class: screenshot
@@ -90,7 +90,7 @@ Checkout Steps
 
 **Step 3: Order Details**
 
-.. image:: /_static/images/Checkout Process/Order instructions.JPG
+.. image:: ../_static/images/Checkout Process/Order instructions.JPG
    :alt: Checkout step 3 showing purchase order reference fields and order notes
    :width: 1000px
    :class: screenshot
@@ -108,7 +108,7 @@ Checkout Steps
 
 **Step 4: Final Confirmation**
 
-.. image:: /_static/images/Checkout Process/Order summary.JPG
+.. image:: ../_static/images/Checkout Process/Order summary.JPG
    :alt: Checkout step 4 showing final order summary and Place Order button
    :width: 1000px
    :class: screenshot
@@ -132,7 +132,7 @@ Checkout Steps
 Understanding Backorder Handling
 ---------------------------------
 
-.. image:: /_static/images/checkout-backorder-handling.png
+.. image:: ../_static/images/checkout-backorder-handling.png
    :alt: Checkout page showing mixed stock order with available and backorder items separated
    :width: 1000px
    :class: screenshot
@@ -160,7 +160,7 @@ You'll receive detailed emails showing:
 - **Clear delivery timelines** for each group
 - **Professional presentation** for record keeping
 
-.. image:: /_static/images/checkout-backorder-email.png
+.. image:: ../_static/images/checkout-backorder-email.png
    :alt: Sample order confirmation email showing separated available and backorder items
    :width: 800px
    :class: screenshot
@@ -176,7 +176,7 @@ You'll receive detailed emails showing:
 Order Approval Workflow
 ------------------------
 
-.. image:: /_static/images/checkout-approval-required.png
+.. image:: ../_static/images/checkout-approval-required.png
    :alt: Checkout page showing order requiring approval with pending status
    :width: 900px
    :class: screenshot
@@ -240,7 +240,7 @@ Checkout Validation and Errors
 Order Confirmation
 ------------------
 
-.. image:: /_static/images/Checkout Process/Order number.JPG
+.. image:: ../_static/images/Checkout Process/Order number.JPG
    :alt: Order confirmation page showing successful order placement with order number
    :width: 1000px
    :class: screenshot
@@ -260,7 +260,7 @@ You'll receive detailed emails containing:
 - **Items shipping immediately** vs. backorder items
 - **Contact information** for questions
 
-.. image:: /_static/images/checkout-confirmation-email.png
+.. image:: ../_static/images/checkout-confirmation-email.png
    :alt: Sample order confirmation email showing professional formatting with all order details
    :width: 800px
    :class: screenshot
@@ -297,7 +297,7 @@ Post-Checkout Actions
 Mobile Checkout
 ---------------
 
-.. image:: /_static/images/Checkout Process/Mobile Checkout Interface 1.jpg
+.. image:: ../_static/images/Checkout Process/Mobile Checkout Interface 1.jpg
    :alt: Mobile checkout interface showing touch-friendly design across all steps
    :width: 400px
    :class: screenshot mobile-screenshot
@@ -314,7 +314,7 @@ Mobile Checkout
 - **Push notifications** for order updates
 - **Offline form** completion where possible
 
-.. image:: /_static/images/Checkout Process/Mobile Checkout Interface 2.jpg
+.. image:: ../_static/images/Checkout Process/Mobile Checkout Interface 2.jpg
    :alt: Mobile checkout showing step progression indicator and form fields
    :width: 400px
    :class: screenshot mobile-screenshot
