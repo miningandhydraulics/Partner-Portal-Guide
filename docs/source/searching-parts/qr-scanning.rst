@@ -15,7 +15,7 @@ QR code scanning allows you to:
 Accessing the QR Scanner
 -------------------------
 
-.. image:: ../_static/images/QR Code Scanning/Where to access QR code scanner.jpg
+.. image:: ../_static/images/qr-code-scanning/where-to-access-qr-code-scanner.jpg
    :alt: QR scanner icon in the search interface showing where to access scanning feature
    :width: 800px
    :class: screenshot
@@ -34,7 +34,7 @@ From Mobile Devices
 2. Tap the QR code icon next to the search box
 3. Allow camera permissions when prompted
 
-.. image:: ../_static/images/QR Code Scanning/QR Code Scanner Permission Request.jpg
+.. image:: ../_static/images/qr-code-scanning/qr-code-scanner-permission-request.jpg
    :alt: Mobile search interface showing QR scanner icon and camera permission prompt
    :width: 400px
    :class: screenshot mobile-screenshot
@@ -63,7 +63,7 @@ When you first use the scanner, your browser will request camera access:
 How to Scan QR Codes
 ---------------------
 
-.. image:: ../_static/images/QR Code Scanning/QR code scanner frame.jpg
+.. image:: ../_static/images/qr-code-scanning/qr-code-scanner-frame.jpg
    :alt: QR scanner interface showing camera view with QR code recognition frame
    :width: 800px
    :class: screenshot

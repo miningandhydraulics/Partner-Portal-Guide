@@ -6,7 +6,7 @@ This guide will help you access your MHS Partner Portal account for the first ti
 Accessing the Portal
 --------------------
 
-.. image:: ../_static/images/Getting Started/Login Page Cropped.JPG
+.. image:: ../_static/images/getting-started/login-page-cropped.jpg
    :alt: MHS Partner Portal login page showing email and password fields with Sign In button
    :width: 800px
    :class: screenshot
@@ -50,7 +50,7 @@ Your new password must:
 Reset Your Password
 -------------------
 
-.. image:: ../_static/images/Getting Started/Reset Password Page.JPG
+.. image:: ../_static/images/getting-started/reset-password-page.jpg
    :alt: Password reset page showing email input field and reset button
    :width: 800px
    :class: screenshot
@@ -94,7 +94,7 @@ Troubleshooting Login Issues
    - Clear your browser cache and cookies
    - Try a different browser
 
-.. image:: ../_static/images/Getting Started/Login Error Message.JPG
+.. image:: ../_static/images/getting-started/login-error-message.jpg
    :alt: Example of login error message showing "Invalid email or password" alert
    :width: 600px
    :class: screenshot
@@ -121,7 +121,7 @@ Supported browsers:
 Mobile Access
 -------------
 
-.. image:: ../_static/images/Getting Started/Mobile Login Page.jpg
+.. image:: ../_static/images/getting-started/mobile-login-page.jpg
    :alt: Mobile login page showing responsive design on smartphone
    :width: 400px
    :class: screenshot mobile-screenshot
