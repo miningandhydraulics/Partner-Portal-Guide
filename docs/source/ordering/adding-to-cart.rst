@@ -16,18 +16,21 @@ Cart Features
 -------------
 
 **Smart Quantity Management:**
+
 - Automatic quantity updates for duplicate parts
 - Stock level warnings and suggestions
 - Bulk quantity support
 - Unit-aware calculations
 
 **Cross-Session Persistence:**
+
 - Cart contents saved automatically
 - Access from any device with your account
 - Survives browser restarts and logouts
 - Synchronized across multiple tabs
 
 **Stock Intelligence:**
+
 - Real-time availability checking
 - Perth warehouse vs. supplier distinction
 - Backorder handling and notifications
@@ -73,6 +76,7 @@ From Multiple Search Results
 5. Return to results to add additional parts
 
 **Quantity Considerations:**
+
 - **Default quantity** is usually 1
 - **Increase quantity** before adding to cart
 - **Stock warnings** appear if quantity exceeds availability
@@ -184,6 +188,7 @@ Understanding Cart Information
    :class: screenshot
 
 **Item Details Shown:**
+
 - **Part number** and description
 - **Quantity** requested
 - **Unit price** specific to your account
@@ -191,6 +196,7 @@ Understanding Cart Information
 - **Stock status** and availability
 
 **Cart Totals:**
+
 - **Subtotal** of all items
 - **Number of items** in cart
 - **Estimated shipping** costs (where applicable)
@@ -204,6 +210,7 @@ Understanding Cart Information
 *Screenshot needed: Cart showing multiple items with different stock indicators: green checkmark (In Stock), yellow warning (Low Stock - 3 available), red alert (Out of Stock - Check Supplier), blue info (Supplier Item)*
 
 **Stock Status Indicators:**
+
 - **Green checkmark**: All items available locally
 - **Yellow warning**: Partial availability or backorder
 - **Red alert**: Items not available locally
@@ -213,28 +220,36 @@ Advanced Cart Features
 ----------------------
 
 **Stock Validation:**
+
 As you add items, the system automatically:
+
 - **Checks current stock levels**
 - **Calculates availability** for your quantities
 - **Identifies potential backorders**
 - **Suggests alternatives** if needed
 
 **Backorder Handling:**
+
 When you order more than available:
+
 - **System accepts the full quantity**
 - **Separates available** vs. backorder amounts
 - **Provides clear communication** about delivery timing
 - **Handles fulfillment** professionally
 
 **Duplicate Item Resolution:**
+
 If you add a part already in your cart:
+
 - **Quantities are combined** automatically
 - **Single line item** shows total quantity
 - **Notification confirms** the combination
 - **Avoids cart clutter**
 
 **Cross-Device Synchronization:**
+
 Your cart synchronizes across:
+
 - **Desktop and mobile** devices
 - **Different browsers** with same account
 - **Multiple browser tabs**
@@ -244,18 +259,21 @@ Cart Best Practices
 -------------------
 
 **Efficient Cart Building:**
+
 - **Add multiple items** before checking out
 - **Use favorites** for frequently ordered parts
 - **Review quantities** carefully before adding
 - **Check stock status** for each item
 
 **Quantity Management:**
+
 - **Consider lead times** when setting quantities
 - **Plan for future needs** with bulk ordering
 - **Check minimum order** requirements
 - **Account for usage rates**
 
 **Stock Awareness:**
+
 - **Understand Perth vs. supplier** stock
 - **Plan for backorder** lead times
 - **Consider alternatives** for out-of-stock items
@@ -270,12 +288,14 @@ Mobile Cart Management
    :class: screenshot mobile-screenshot
 
 **Mobile-Specific Features:**
+
 - **Touch-friendly interface** for easy quantity changes
 - **Swipe actions** for removing items
 - **Optimized layout** for small screens
 - **Quick add** from scanning
 
 **Mobile Cart Tips:**
+
 - **Double-tap** to edit quantities quickly
 - **Use landscape mode** for detailed review
 - **Pull down** to refresh stock status

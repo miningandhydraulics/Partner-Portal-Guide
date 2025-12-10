@@ -132,6 +132,7 @@ The portal is fully responsive and works on:
 - **Tablets**: iPad, Android tablets
 
 Mobile features include:
+
 - Touch-friendly interface
 - QR code scanning for parts
 - Full ordering capabilities
